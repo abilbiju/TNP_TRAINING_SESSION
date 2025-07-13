@@ -1,0 +1,9 @@
+#1. Print k number of prime nmbers
+#2 test for a palindrome for any of its permutation
+#3. find numbe of zeroes in the number set 1 to n
+#4. determine for a given k number of queens no tow queens are in attacking positions
+#5. write a program to identify the cycle in a graph
+
+------------------------------------------------------------------------------------------------
+
+#6.  
